@@ -1,0 +1,6 @@
+
+scholarly
+pandas
+matplotlib
+scienceplots
+numpy
